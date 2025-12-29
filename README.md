@@ -28,7 +28,7 @@ Key insights include average price variation by neighborhood, popularity of diff
 
 🚀 How to Use
 Clone the repository, import the CSV files into a MySQL environment, execute queries from the SQL file, and explore insights generated through analysis.
-#git clone https://github.com/your-username/Airbnb-Hospitality-Analysis.git
+#git clone https://github.com/Hirapara-harsh/Airbnb-Hospitality-Analysis.git
 #cd Airbnb-Hospitality-Analysis
 
 👨‍💻 Author
